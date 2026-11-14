@@ -1,0 +1,15 @@
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\bin\Debug\net9.0\Ej1BibliotecaBubbleSort.exe
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\bin\Debug\net9.0\Ej1BibliotecaBubbleSort.deps.json
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\bin\Debug\net9.0\Ej1BibliotecaBubbleSort.runtimeconfig.json
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\bin\Debug\net9.0\Ej1BibliotecaBubbleSort.dll
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\bin\Debug\net9.0\Ej1BibliotecaBubbleSort.pdb
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\obj\Debug\net9.0\Ej1BibliotecaBubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\obj\Debug\net9.0\Ej1BibliotecaBubbleSort.AssemblyInfoInputs.cache
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\obj\Debug\net9.0\Ej1BibliotecaBubbleSort.AssemblyInfo.cs
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\obj\Debug\net9.0\Ej1BibliotecaBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\obj\Debug\net9.0\Ej1BibliotecaBubbleSort.dll
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\obj\Debug\net9.0\refint\Ej1BibliotecaBubbleSort.dll
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\obj\Debug\net9.0\Ej1BibliotecaBubbleSort.pdb
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\obj\Debug\net9.0\Ej1BibliotecaBubbleSort.genruntimeconfig.cache
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\obj\Debug\net9.0\ref\Ej1BibliotecaBubbleSort.dll
+C:\Users\perey\source\repos\Ej1BibliotecaBubbleSort\Ej1BibliotecaBubbleSort\obj\Debug\net9.0\Ej1Bibli.3022D666.Up2Date
